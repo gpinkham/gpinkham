@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpinkham&show_icons=true&count_private=true)](https://github.com/gpinkham)
+[![Gary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpinkham&show_icons=true&count_private=true&theme=vue)](https://github.com/gpinkham)
 
 
 <!--

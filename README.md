@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpinkham&theme=vue&hide=java,plpgsql,xslt)](https://github.com/gpinkham)
 
+*note: the most used languages reflects the size of repos and does not reflect the number iof commits to private repos.  Ruby is by far the leader. 
 <!--
 **gpinkham/gpinkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

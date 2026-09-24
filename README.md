@@ -1,21 +1,25 @@
-### Hi there 👋
+ ### Hi, I'm Gary
 
-[![Gary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpinkham&show_icons=true&count_private=true&theme=vue)](https://github.com/gpinkham)
+  I build and ship indie mobile apps at Pinkham Software, using a team of AI agents to build them.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpinkham&theme=vue&hide=java,plpgsql,xslt)](https://github.com/gpinkham)
+  ## Apps
 
-*note: the most used languages reflects the size of repos and does not reflect the number iof commits to private repos.  Ruby is by far the leader. 
-<!--
-**gpinkham/gpinkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - OneARK: one act of random kindness, every day. Free, offline, no account. [App Store](https://apps.apple.com/us/app/oneark-daily-kindness/id6811608253)  [Google Play](https://play.google.com/store/apps/details?id=us.pinkham.oneark)
+  - Sip the World: explore the world, one cocktail at a time. 50+ countries, real recipes, real stories. [siptheworld.app](https://siptheworld.app)
+  - Black Market Trader: a live black market economy driven by real players. Buy low, travel, sell high. [black-market-trader.app](https://black-market-trader.app)
 
-Here are some ideas to get you started:
+  See all apps: https://pinkham.us/apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## How I build
+
+  I run my agent office on [Munder Difflin](https://github.com/chaitanyagiri/munder-difflin), a tool for running teams of AI agents. I write field notes on what breaks along the way.
+
+  ## Recent finding
+
+  I gave an orchestrator one job. It did the work anyway, then explained why when I asked. Overstepping for good reasons is still overstepping.
+
+  ## Find me
+
+  - LinkedIn: https://www.linkedin.com/in/gary-pinkham/
+  - X: https://x.com/pinkham
+  - pinkham.us: https://pinkham.us
